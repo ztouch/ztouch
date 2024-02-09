@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 email: bagayokozee@gmail.com
        bagayokozeinab19@gmail.com
-phone: +233 020 4943 977
+phone: +233 055 222 6192
 
 <!---
 ztouch/ztouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
